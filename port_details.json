@@ -1,0 +1,22 @@
+{
+        "stgui1.fliplearn.com":[443,80,6556,22],
+        "stgbl1.fliplearn.com":[443,80,6556,22],
+        "stgsolr.fliplearn.com":[80,22],
+        "stgapp1.fliplearn.com":[443,80,6556,22],
+        "stggroup1.fliplearn.com":[80,6556,22],
+        "stgmarketplace1.fliplearn.com":[443,80,6556,22],
+        "stgcontent1.fliplearn.com":[443,80,6556,22,9001],
+        "stgjob.fliplearn.com":[9001,6556,22],
+        "stgeventapi1.fliplearn.com":[9001,80,22],
+        "stgtoc1.fliplearn.com":[9001,80,22,6556],
+        "stgcommdash1.fliplearn.com":[9001,80,22,6556],
+        "stgkafka1.fliplearn.com":[6556,9001,9092,22],
+        "stgkafka2.fliplearn.com":[6556,9001,9093,22],
+        "stggroupdb.fliplearn.com":[3306,6556,22],
+        "stgmarketplacedb.fliplearn.com":[3306,6556,22],
+        "stgumsdb.fliplearn.com":[3306,6556,22],
+        "stgadmindb.fliplearn.com":[27017,6556,22],
+        "stgaero1.fliplearn.com":[3000,6556,22],
+        "stgaero2.fliplearn.com":[3000,6556,22]
+ 
+}

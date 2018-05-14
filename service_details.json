@@ -1,0 +1,21 @@
+{
+        "stgui1.fliplearn.com ":["php7.0-fpm","nginx"],
+        "stgbl1.fliplearn.com":["php7.0-fpm","nginx"],
+        "stgsolr.fliplearn.com":["solr"],
+        "stgapp1.fliplearn.com":["php7.0-fpm","nginx"],
+        "stggroup1.fliplearn.com":["php7.0-fpm","nginx"],
+        "stgmarketplace1.fliplearn.com":["php7.0-fpm","nginx"],
+        "stgcontent1.fliplearn.com":["php7.0-fpm","nginx"],
+        "stgjob.fliplearn.com":["supervisord","nginx"],
+        "stgeventapi1.fliplearn.com":["supervisord","nginx"],
+        "stgtoc1.fliplearn.com":["supervisord","nginx"],
+        "stgcommdash1.fliplearn.com":["supervisord","nginx"],
+        "stgkafka1.fliplearn.com":["supervisord"],
+        "stgkafka2.fliplearn.com":["supervisord"],
+        "stggroupdb.fliplearn.com":["mongod","mysqld"],
+        "stgmarketplacedb.fliplearn.com":["mysqld"],
+        "stgumsdb.fliplearn.com":["mysqld"],
+        "stgadmindb.fliplearn.com":["mysqld"],
+        "stgaero1.fliplearn.com":["aerospike"],
+        "stgaero2.fliplearn.com":["aerospike"]
+}
