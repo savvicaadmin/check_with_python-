@@ -6,7 +6,7 @@ import json
 
 result=None
 test_results = {}
-with open('/home/arpit/my_workspace/python/python-git/port_details.json') as data_file:    
+with open('/var/lib/jenkins/workspace/port\ and\ service\ check/port_details.json') as data_file:    
     data = json.load(data_file)
 
 
