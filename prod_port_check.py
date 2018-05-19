@@ -6,7 +6,7 @@ import json
 
 result=None
 test_results = {}
-with open('/var/lib/jenkins/workspace/prod_port_check/prod_port_details.json') as data_file:    
+with open('/var/lib/jenkins/workspace/fl_prod_port_check/prod_port_details.json') as data_file:    
     data = json.load(data_file)
 
 
