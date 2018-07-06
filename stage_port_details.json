@@ -9,7 +9,6 @@
         "stgjob.fliplearn.com":[9001,6556,22,8081],
         "stgeventapi1.fliplearn.com":[9001,80,22],
         "stgtoc1.fliplearn.com":[9001,80,22,6556],
-        "stgcommdash1.fliplearn.com":[9001,80,22,6556],
         "stgkafka1.fliplearn.com":[6556,9001,9092,22],
         "stgkafka2.fliplearn.com":[6556,9001,9093,22],
         "stggroupdb.fliplearn.com":[3306,6556,22],
