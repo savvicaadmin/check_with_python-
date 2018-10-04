@@ -12,8 +12,6 @@
         "stggroupdb.fliplearn.com":[3306,6556,22],
         "stgmarketplacedb.fliplearn.com":[3306,6556,22],
         "stgumsdb.fliplearn.com":[3306,6556,22],
-        "stgadmindb.fliplearn.com":[27017,6556,22],
-        "stgaero1.fliplearn.com":[3000,6556,22],
-        "stgaero2.fliplearn.com":[3000,6556,22]
+        "stgadmindb.fliplearn.com":[27017,6556,22]
  
 }
