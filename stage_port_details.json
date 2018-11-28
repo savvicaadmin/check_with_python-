@@ -6,7 +6,6 @@
         "stggroup1.fliplearn.com":[80,6556,22],
         "stgmarketplace1.fliplearn.com":[443,80,6556,22],
         "stgcontent1.fliplearn.com":[443,80,6556,22,9001],
-        "stgjob.fliplearn.com":[9001,6556,22,8081],
         "stgeventapi1.fliplearn.com":[9001,80,22],
         "stgtoc1.fliplearn.com":[9001,80,22,6556],
         "stggroupdb.fliplearn.com":[3306,6556,22],
